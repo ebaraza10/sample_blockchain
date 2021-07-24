@@ -1,5 +1,6 @@
 <b>About:</b><br>
-A simple NodeJS based encryption based blockchain with the abilities to create new blocks and transactions. Miners can add confirm/add new blocks to the blockchain.
+A simple encryption based blockchain with the abilities to create new blocks and transactions. Miners can add confirm/add new blocks to the blockchain.
+Developed in NodeJS.
 
 Highlight of main packages:
 nodeman: application server/for running the application
